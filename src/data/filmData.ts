@@ -229,7 +229,7 @@ export const TALENT_ROSTER: TalentProfile[] = [
     industry: 'Indian Television & Youth Icon',
     role: 'Celebrity Mentor & Reality King',
     knownFor: 'Winner of MTV Roadies, Splitsvilla, Bigg Boss 9 & Nach Baliye 9',
-    image: '/public/slides/page_15.jpg',
+    image: '/slides/page_15.jpg',
     category: 'TV Personality',
     achievements: [
       'Only contestant in Indian reality history to win 4 consecutive major reality titles',
@@ -244,7 +244,7 @@ export const TALENT_ROSTER: TalentProfile[] = [
     industry: 'Bengali Cinema & Web Series',
     role: 'Lead Theatrical Actor',
     knownFor: 'Critically acclaimed starring role in Montu Pilot, Rudrabinar Obhishaap & Cinema Box Office Hits',
-    image: '/public/slides/page_15.jpg',
+    image: '/slides/page_15.jpg',
     category: 'Actor',
     achievements: [
       'Celebrated for complex, gritty psychological performances in Eastern cinema',
@@ -257,7 +257,7 @@ export const TALENT_ROSTER: TalentProfile[] = [
     industry: 'Bengali Feature Film Industry',
     role: 'Feature Film Director & Visionary',
     knownFor: 'Director of Doctor Bakshi (2023), Jotugriho (2022), Pratidwandi (2020)',
-    image: '/public/slides/page_15.jpg',
+    image: '/slides/page_15.jpg',
     category: 'Director',
     achievements: [
       'Pioneer of new-age thriller and psychological noir cinema in Tollywood',
@@ -270,7 +270,7 @@ export const TALENT_ROSTER: TalentProfile[] = [
     industry: 'Fashion, Lifestyle & Television',
     role: 'Supermodel & Digital Influencer',
     knownFor: 'Winner of MTV Splitsvilla 13 & Premier Runway Showstopper',
-    image: '/public/slides/page_15.jpg',
+    image: '/slides/page_15.jpg',
     category: 'Model',
     achievements: [
       'MTV Splitsvilla 13 Championship title holder',
@@ -283,7 +283,7 @@ export const TALENT_ROSTER: TalentProfile[] = [
     industry: 'Television & Fitness Modeling',
     role: 'Reality Star & Fitness Personality',
     knownFor: 'Key Contestant on MTV Splitsvilla 13 & MTV Roadies',
-    image: '/public/slides/page_15.jpg',
+    image: '/slides/page_15.jpg',
     category: 'TV Personality',
     achievements: [
       'High-profile television presence and national commercial endorsements',
@@ -296,7 +296,7 @@ export const TALENT_ROSTER: TalentProfile[] = [
     industry: 'Indian Television & Runway',
     role: 'Model & Television Personality',
     knownFor: 'MTV Roadies finalist and prominent ramp model',
-    image: '/public/slides/page_15.jpg',
+    image: '/slides/page_15.jpg',
     category: 'Model',
     achievements: [
       'Prominent ramp model across luxury fashion weeks',
@@ -309,7 +309,7 @@ export const TALENT_ROSTER: TalentProfile[] = [
     industry: 'Bengali Film & OTT Industry',
     role: 'Leading Film Actress',
     knownFor: 'Feature film Shaheber Cutlet and top Bengali entertainment serials',
-    image: '/public/slides/page_15.jpg',
+    image: '/slides/page_15.jpg',
     category: 'Actor',
     achievements: [
       'Breakout star in contemporary Bengali cinema',
@@ -322,7 +322,7 @@ export const TALENT_ROSTER: TalentProfile[] = [
     industry: 'Indian Cinema (Bollywood & South) / International Fitness',
     role: 'Star Actor & World Fitness Champion',
     knownFor: 'Dhruva, Singam 3, Commando 2, Mahabharat & Host of Supermodel India',
-    image: '/public/slides/page_16.jpg',
+    image: '/slides/page_16.jpg',
     category: 'Actor',
     achievements: [
       'Mr. World Gold Medalist in Men’s Fitness Physique',
