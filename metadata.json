@@ -1,0 +1,6 @@
+{
+  "name": "Shadowfax Films | Cinematic Storytelling & Production Ecosystem",
+  "description": "Premier film production and strategic marketing powerhouse specializing in brand films, theatrical features, TV commercials, fashion events, and talent management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
